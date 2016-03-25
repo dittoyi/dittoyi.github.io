@@ -1,27 +1,27 @@
 # Site settings
-title: 读立写生
+title: 名词王国
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "任如意|理性·自由"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://dittoyi.github.io"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " Dittoyi"
+  email: ruyi.ren@yahoo.com
+  bio: "理性·自由"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+douban_username:  dittoyi
+twitter_username: dittoyi
+github_username: dittoyi
+facebook_username: dittoyi
+weibo_username: dittoyi 
+zhihu_username: ren-dittoyi
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -50,9 +50,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : cnfeat
+    short_name : dittoyi
   disqus :
-      short_name : cnfeat
+      short_name : dittoyi
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
